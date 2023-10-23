@@ -1,0 +1,8 @@
+document['cookie'] = 'm=' + (m - 0x1).toString() + res + '; path=/';
+
+m = 3
+res = decrypt(timeStamp) + r
+
+
+decrypt('1698061617')
+    = 'lRLMZt%2FVEwpzcFhP94lU2Cn8SbxybWpII6zfa0VrU7kOtFXRltWNcMwDcyShXy%2BuQnzMLqhnJS5IcBEpbXxWjo9cldeS16SnIWqyehLMhHoOtrhk8las%2B9aSsKYC8WS3NEQr%2FvdB9o0w0PWkm6loVJXLCkN3Q3E0c1bKoHTFT1th%2BKqIif2deyGcC25pPiz%2BV7ob1yJ7Ws1OiIi8YASrT0ehD5W%2BR1vBDgKv7b3Tqi5UHbmGluBAJ%2FTnAf5J4rtzPNXVLlGjDMMdyjDsiM78Jxw2phD3JB5Hqg9KFmM3V%2FP2bfSi0TXgkAW1JkyCKSw%2FLi9Zzeg0QfcknJi%2Ff4E76A%3D%3D'

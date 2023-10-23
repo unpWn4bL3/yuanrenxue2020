@@ -1,0 +1,18 @@
+var list = {
+                    "page": window.page,
+                    "m": r(t, window.o),
+                    t 时间戳 window.o 1 2 3
+                    "q": window.i += window.o + '-' + t + "|",
+                };
+                找window.i 生成和r实现
+                window.i = window.o+'-'+timestamp
+                点击次数-时间戳
+                每次不重置多一次页面访问就连着
+
+m : H2beXFaZd8uBpOmyzzSedZXqTmTNx6ILZXR%2F7YKm5gUrrVZFPjaYSTWaRA1Wp5J9Nkz9wsniXq8SAApvB7TVht92n62dyJZ7SMgySlStzn1NGHNCxzmmh91OwUKjZHkhEqjr4ukOBzEl5id9zd%2FrEZMO%2BCGPlI0GN3mq4pczgeo%3D
+q : 1-1697081872000|
+
+魔改rsa
+H2beXFaZd8uBpOmyzzSedZXqTmTNx6ILZXR/7YKm5gUrrVZFPjaYSTWaRA1Wp5J9Nkz9wsniXq8SAApvB7TVht92n62dyJZ7SMgySlStzn1NGHNCxzmmh91OwUKjZHkhEqjr4ukOBzEl5id9zd/rEZMO+CGPlI0GN3mq4pczgeo=
+标准rsa
+cIx/YeTVJoRtG9uxxYQCkkXzCBYLUUBKmxNdpS72kcMmdJPl+lG/dIR8DuoeJMKHfsDKmXDhN3VHa2hQhqu6zfE4H4/QCT72EMmQqcP4ccZnjeh3ZaAvZtV5GUxR3fXfhGErHmP309+9hUxFonVl5KZEca03bjuw8LULyBjhJHg=
